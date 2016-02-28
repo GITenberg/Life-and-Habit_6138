@@ -1,0 +1,39 @@
+_repo: Life-and-Habit_6138
+contributor:
+  contributor:
+    agent_name: Streatfeild, R. A. (Richard Alexander)
+    alias: Streatfeild, Richard Alexander
+    birthdate: 1866
+    deathdate: 1919
+    gutenberg_agent_id: '6569'
+    url: http://www.gutenberg.org/2009/agents/6569
+creator:
+  author:
+    agent_name: Butler, Samuel
+    alias: Cellarius
+    birthdate: 1835
+    deathdate: 1902
+    gutenberg_agent_id: '748'
+    url: http://www.gutenberg.org/2009/agents/748
+    wikipedia: http://en.wikipedia.org/wiki/Samuel_Butler_(1835-1902)
+description: Published in 1878, this is the first book in which Butler attacks Darwinism,
+  and sets out an alternative, neo-Lamarckian theory which explores the role of memory
+  in shaping organisms. Butler initially wrote the book as a tribute and complement
+  to Darwin's theory. Darwin chose to ignore the attack, but Butler continued to challenge
+  the scientific establishment with three additional books.
+gutenberg_issued: '2004-07-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '6138'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Habit'
+- !lcc 'QH'
+- !lcsh 'Evolution'
+- !lcc 'PR'
+- !lcsh 'Life (Biology)'
+title: Life and Habit
+url: http://www.gutenberg.org/ebooks/6138
