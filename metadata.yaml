@@ -1,5 +1,5 @@
 _repo: Life-and-Habit_6138
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   contributor:
     agent_name: Streatfeild, R. A. (Richard Alexander)
@@ -8,6 +8,9 @@ contributor:
     deathdate: 1919
     gutenberg_agent_id: '6569'
     url: http://www.gutenberg.org/2009/agents/6569
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Butler, Samuel
@@ -22,6 +25,8 @@ description: Published in 1878, this is the first book in which Butler attacks D
   in shaping organisms. Butler initially wrote the book as a tribute and complement
   to Darwin's theory. Darwin chose to ignore the attack, but Butler continued to challenge
   the scientific establishment with three additional books.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/6138#Life-and-Habit
 gutenberg_issued: '2004-07-01'
 gutenberg_type: Text
 identifiers:
