@@ -1,5 +1,5 @@
 _repo: Life-and-Habit_6138
-_version: 0.2.0
+_version: 0.2.1
 contributor:
   contributor:
     agent_name: Streatfeild, R. A. (Richard Alexander)
@@ -41,5 +41,6 @@ subjects:
 - !lcsh 'Evolution'
 - !lcc 'PR'
 - !lcsh 'Life (Biology)'
+- GITenberg
 title: Life and Habit
 url: http://www.gutenberg.org/ebooks/6138
